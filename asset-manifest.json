@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/CrazyGaming/static/css/main.f9e28d72.css",
+    "main.js": "/CrazyGaming/static/js/main.c3ad48f2.js",
+    "static/js/787.9d8f7f7a.chunk.js": "/CrazyGaming/static/js/787.9d8f7f7a.chunk.js",
+    "static/media/bannerBg.jpg": "/CrazyGaming/static/media/bannerBg.d9490768b54855af05b9.jpg",
+    "static/media/TPRamanayake.jpg": "/CrazyGaming/static/media/TPRamanayake.102ec633157c0701a101.jpg",
+    "static/media/L1.PNG": "/CrazyGaming/static/media/L1.7cdf6f2f0cf2b21b13aa.PNG",
+    "static/media/L2.PNG": "/CrazyGaming/static/media/L2.cecb70846aa44c8928df.PNG",
+    "static/media/L4.PNG": "/CrazyGaming/static/media/L4.f2375e7736119de461db.PNG",
+    "static/media/L5.PNG": "/CrazyGaming/static/media/L5.94b857223529de0121ae.PNG",
+    "static/media/L3.PNG": "/CrazyGaming/static/media/L3.13f78e8f66585a6084d0.PNG",
+    "static/media/CBanner.png": "/CrazyGaming/static/media/CBanner.f3dc92bff9c802a3b93f.png",
+    "static/media/crazy-gaming-logo.png": "/CrazyGaming/static/media/crazy-gaming-logo.7691fdab22e1b5650a69.png",
+    "static/media/Centra No2 Bold.ttf": "/CrazyGaming/static/media/Centra No2 Bold.48e33a55a4142e6e115a.ttf",
+    "static/media/Centra No2 Medium.ttf": "/CrazyGaming/static/media/Centra No2 Medium.b86cead53490db910934.ttf",
+    "static/media/Centra No2.ttf": "/CrazyGaming/static/media/Centra No2.b2bdf0ee70382dbce2a1.ttf",
+    "static/media/ContactUs.png": "/CrazyGaming/static/media/ContactUs.d58ce624acc6fc94d66d.png",
+    "static/media/revicons.eot": "/CrazyGaming/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/CrazyGaming/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/CrazyGaming/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/CrazyGaming/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CrazyGaming/index.html",
+    "main.f9e28d72.css.map": "/CrazyGaming/static/css/main.f9e28d72.css.map",
+    "main.c3ad48f2.js.map": "/CrazyGaming/static/js/main.c3ad48f2.js.map",
+    "787.9d8f7f7a.chunk.js.map": "/CrazyGaming/static/js/787.9d8f7f7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e28d72.css",
+    "static/js/main.c3ad48f2.js"
+  ]
+}
